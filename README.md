@@ -3,7 +3,7 @@ This website shows news Articles with the help of news API.You can tap the headl
 # Tech Stacks
 1. HTML
 2. JavaScript
-3. News API
+3. News API.
 
 
 Here is a snapshot-
