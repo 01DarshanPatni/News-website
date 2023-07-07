@@ -7,4 +7,4 @@ This website shows news Articles with the help of news API.You can tap the headl
 
 
 Here is a snapshot-
-[image](https://github.com/01DarshanPatni/News-website/blob/master/pic.png)
+![pic](https://github.com/01DarshanPatni/News-website/assets/95132151/d75b859d-4f4e-4250-aec4-af1a34b6e002)
